@@ -1,7 +1,7 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:pokedex_app_bloc/bloc/pokemon_event.dart';
-import 'package:pokedex_app_bloc/pokemon_page_response.dart';
-import 'package:pokedex_app_bloc/pokemon_repository.dart';
+import 'package:pokedex_app_bloc/data/pokemon_page_response.dart';
+import 'package:pokedex_app_bloc/data/pokemon_repository.dart';
 
 import 'pokemon_state.dart';
 
